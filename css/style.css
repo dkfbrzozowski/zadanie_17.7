@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    background-color: #DEB887;
+    font-family: Lato;
+    color: #CD5C5C;
+}
+
+a {
+	color: #DC143C;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.form {
+	border: 5px solid #FFF;
+	border-radius: 10px;
+	background-color: #B0C4DE;
+	width: 60%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+input {
+	margin: 5px;
+}
+
+.button {
+	background-color: #32CD32;
+	color: #FFF;
+	padding: 5px 15px;
+	border-radius: 5px;
+	border: 2px solid #FFF;
+	box-shadow: 3px 3px 5px 1px black;
+}
